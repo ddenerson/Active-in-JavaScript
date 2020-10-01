@@ -10,8 +10,7 @@ POSITION|INFORMATION
 01     | Array
 02   | Stack-Queue
 03   | List
-04  | Trees Traversal
-05  | Graph
+
 
 
 # 02 - Several
