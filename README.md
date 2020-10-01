@@ -13,29 +13,8 @@ POSITION|INFORMATION
 04  | Trees Traversal
 05  | Graph
 
-# 02 - Recursion 
 
-POSITION|INFORMATION 
---------- | ------
-01     | Exponecial
-02   | Factorial
-03   | Fibonacci
-04  | Show numbers
-05  | Sum range
-
-# 03 - Search Algorithm
-
-POSITION|INFORMATION 
---------- | ------
-01     | Binary search
-02   | Buble Sort
-03   | Insertion Sort
-04  | Merge Sort
-05  | Radix Sort
-06    | Selection Sort
-07   | Dijkstra's algorithm [incomplete]
-
-# 04 - Several
+# 02 - Several
 
 POSITION|INFORMATION 
 --------- | ------
@@ -45,7 +24,7 @@ POSITION|INFORMATION
 04  |  Array Manipulation(hackerRank)
 05  | Similar element
 
-# 05 - Vectors
+# 03 - Vectors
 
 POSITION|INFORMATION 
 --------- | ------
