@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="utf-8">
+  <title> AVALIAÇÃO </title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="reset.css">
+  <script src="doc.js"></script>
+</head>
+
+<body>
+  <header>
+    <h1 class="borda">AVALIAÇÃO II - LSW </h1>
+  </header>
+  <img id="logo" src="/home/denerson/Documentos/Desenvolvimento/Web/DenersonSilva_provaWeb/imagens/etanol.jpg" width=200 height=300 />
+  <div class="borda">
+    <form action="page">
+      <h2><b>Visão Geral da Bomba 1</b></h2>
+      Gasolina disponível (litros)
+      <div class="nao-quebra-linha">
+        <input id="gdisp" type="text" value="1000" class="field left" readonly="readonly">
+      </div>
+      <br><br>
+      Etanol disponível (litros)
+      <div class="nao-quebra-linha">
+        <input id="edisp" type="text" value="1000" class="field left" readonly="readonly">
+      </div>
+      <br><br>
+    </form>
+  </div>
+  <form name="formid">
+    <div class="borda">
+      <h2><b>Compra</b></h2>
+      <fieldset>
+        <legend><i>Tipo de combustível</i></legend>
+        <select id="ddlselect" class="nao-quebra-linha" name="ddlselect" onchange="getddl()">
+          <option value="Selecionar">Selecionar</option>
+          <option value="Gasolina">Gasolina</option>
+          <option value="Etanol">Etanol</option>
+        </select>
+        <br><br>
+      </fieldset>
+      <br><br>
+      <fieldset>
+        <legend><i>Valor do litro</i></legend>
+        <p class="nao-quebra-linha" id="litros"></p>
+      </fieldset>
+      <br><br>
+      <fieldset>
+        <legend><i>Quantidade em litros</i></legend>
+        <form>
+          <input class="nao-quebra-linha" id="qtd" type="text" name="txtnum" />
+        </form>
+        <br>
+      </fieldset>
+      <br><br>
+  </form>
+  <input class="enviar" type="button" value="Confirma" onclick="calc()">
+  <h2><b>Resumo do dia </b></h2>
+  <p class="resposta" id="resultado"> </p>
+  <br>
+  <h3>Total:</h3>
+  <input id="resp" type="text" class="field left" readonly="readonly">
+  </div>
+</body>
+
+</html>
