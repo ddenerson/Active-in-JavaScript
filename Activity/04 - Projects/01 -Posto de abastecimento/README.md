@@ -1,6 +1,6 @@
 # Active in JavaScript
 
-## Posto de abastecimento - problema
+## Posto de abastecimento
 
 
 ![Screenshot_2020-12-11 SISOP-2º ADS 2020_2 Tarefa - avaliação II](https://user-images.githubusercontent.com/33932398/101913539-e274a200-3ba1-11eb-8b1e-5d81e81dfe09.png)
