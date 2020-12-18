@@ -21,7 +21,7 @@ POSITION|INFORMATION
 02   |  <a href="https://github.com/ddenerson/JavaScript/blob/master/Activity/02%20-%20Several/02%20-%20Prime%20numbers.js">Prime numbers<a/>
 03   | <a href="https://github.com/ddenerson/JavaScript/blob/master/Activity/02%20-%20Several/03%20-%20Function%20with%20three%20elements.js">Function with three elements</a>
 04  | <a href="https://github.com/ddenerson/JavaScript/blob/master/Activity/02%20-%20Several/04%20-%20Array%20Manipulation(hackerRank).js">Array Manipulation(hackerRank)</a>
-05  |< a href="https://github.com/ddenerson/JavaScript/blob/master/Activity/02%20-%20Several/05%20-%20Similar%20element.js">Similar element</a>
+05  |<a href="https://github.com/ddenerson/JavaScript/blob/master/Activity/02%20-%20Several/05%20-%20Similar%20element.js">Similar element</a>
 
 # 03 - Vectors
 
