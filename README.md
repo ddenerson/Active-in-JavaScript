@@ -17,27 +17,27 @@ POSITION|INFORMATION
 
 POSITION|INFORMATION 
 --------- | ------
-01     | Average students
-02   |  Prime numbers
-03   | Function with three elements
-04  |  Array Manipulation(hackerRank)
-05  | Similar element
+01     |<a href="https://github.com/ddenerson/JavaScript/blob/master/Activity/02%20-%20Several/01%20-%20Average%20student.js">Average students<a/>
+02   |  <a href="https://github.com/ddenerson/JavaScript/blob/master/Activity/02%20-%20Several/02%20-%20Prime%20numbers.js">Prime numbers<a/>
+03   | <a href="https://github.com/ddenerson/JavaScript/blob/master/Activity/02%20-%20Several/03%20-%20Function%20with%20three%20elements.js">Function with three elements</a>
+04  | <a href="https://github.com/ddenerson/JavaScript/blob/master/Activity/02%20-%20Several/04%20-%20Array%20Manipulation(hackerRank).js">Array Manipulation(hackerRank)</a>
+05  |< a href="https://github.com/ddenerson/JavaScript/blob/master/Activity/02%20-%20Several/05%20-%20Similar%20element.js">Similar element</a>
 
 # 03 - Vectors
 
 POSITION|INFORMATION 
 --------- | ------
-01     | Anagram
-02   |  Maximum of Elements
-03   | Sum of elements
-04  |  Uniq values
-05  | Vector comparison
+01     |<a href="https://github.com/ddenerson/JavaScript/blob/master/Activity/03%20-%20Vectors/Anagram.js">Anagram</a>
+02   |<a href="https://github.com/ddenerson/JavaScript/blob/master/Activity/03%20-%20Vectors/Maximum%20of%20Elements.js">Maximum of Elements</a>
+03   |<a href="https://github.com/ddenerson/JavaScript/blob/master/Activity/03%20-%20Vectors/Sum%20of%20elements.js">Sum of elements</a>
+04  |<a href="https://github.com/ddenerson/JavaScript/blob/master/Activity/03%20-%20Vectors/Uniq%20values.js">Uniq values</a>
+05  |<a href="https://github.com/ddenerson/JavaScript/blob/master/Activity/03%20-%20Vectors/vector%20comparison.js">Vector comparison</a>
 
 # 04 - Mini projects
 
 POSITION|INFORMATION 
 --------- | ------
-01     |Posto de abastecimento-(portuguese)Html-Css 
+01     |<a href="https://github.com/ddenerson/JavaScript/tree/master/Activity/04%20-%20Projects/01%20-Posto%20de%20abastecimento">Posto de abastecimento-(portuguese)Html-Css<a/>
 
 
 
