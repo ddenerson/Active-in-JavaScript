@@ -7,9 +7,9 @@ The activities are grouped by content in separate folders, and I'm always updati
 # 01 - Data Structer
 POSITION|INFORMATION 
 --------- | ------
-01     | Array
-02   | Stack-Queue
-03   | List
+01     |<a href="https://github.com/ddenerson/JavaScript/blob/master/Activity/01%20-%20Data%20structure/01%20-%20Array/01%20-%20Array.js">Array</a>
+02   |<a href="https://github.com/ddenerson/JavaScript/tree/master/Activity/01%20-%20Data%20structure/02%20-Stack-Queue">Stack-Queue</a>
+03   |<a href="https://github.com/ddenerson/JavaScript/tree/master/Activity/01%20-%20Data%20structure/03 - List">List</a>
 
 
 
