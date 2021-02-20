@@ -13,7 +13,7 @@ POSITION|INFORMATION
 
 
 
-# 02 - Exercise
+# 02 - Exercises
 
 POSITION|INFORMATION 
 --------- | ------
