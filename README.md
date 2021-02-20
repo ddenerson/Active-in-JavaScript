@@ -1,4 +1,4 @@
-# Active in JavaScript
+# JavaScript
 Activities and projects using the JavaScript language
 
 ATENTION: Any kind of correction is welcome, feel free to send me requests, issues, changes to the wiki, I'm open.
